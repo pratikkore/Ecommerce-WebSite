@@ -1,0 +1,18 @@
+[
+    {
+        "id":"11",
+        "brand":"IPode",
+        "info":"Men's Poly Cotton Digital Printed Stitched Half Sleeve Shirt",
+        "ratings":4.5,
+        "price":10000,
+        "productImg":"/images/electronics/earpods.jpeg"
+    },
+    {
+        "id":"12",
+        "brand":"iphone",
+        "price":72000,
+        "info":"Men's Poly Cotton Digital Printed Stitched Half Sleeve Shirt",
+        "ratings":4,
+        "productImg":"/images/electronics/iphone.jpg"
+       }
+]

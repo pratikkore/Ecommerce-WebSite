@@ -1,0 +1,26 @@
+[
+    {
+        "id": "tools_11",
+        "brand": "hacksaws",
+        "info": "used for cutting thin metal such as aluminum, brass, steel, or copper.",
+        "ratings": 4,
+        "price": 100,
+        "productImg": "/images/tools/hacksaws.png"
+    },
+    {
+        "id": "tools_12",
+        "brand": "Spanner",
+        "price": 150,
+        "info": "a tool used to provide grip and mechanical advantage in applying torque to turn objects—usually rotary fasteners, such as nuts and bolts—or keep them from turning",
+        "ratings": 1,
+        "productImg": "/images/tools/spanners.jpeg"
+    },
+    {
+        "id": "tools_13",
+        "brand": "handtool",
+        "price": 3200,
+        "info": "this is mechanical tool",
+        "ratings": 3.5,
+        "productImg": "/images/tools/handtools.jpg"
+    }
+]

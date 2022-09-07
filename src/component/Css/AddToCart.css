@@ -1,0 +1,27 @@
+.d-flex-column {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.height-cs {
+  width: 200px;
+}
+
+.d-flex {
+  flex-direction: row;
+}
+
+
+.card-body {
+    flex: 0.5 0.3 auto;
+}
+
+.add-btn{
+    padding: 0;
+}
+
+.add-btn svg{
+    width: 24px !important;
+    height: 17px !important;
+}

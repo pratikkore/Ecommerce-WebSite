@@ -1,0 +1,20 @@
+[
+    {
+        "id":"toys_1",
+        "productName":"Cube",
+        "productImg":"/images/toys/cube.jpeg",
+        "brand":"Nike",
+        "info":"this is puzzle gamegfhffhf vnhgfthftgh gbhfghfghb tvbgdfvbg gbhfgb this is puzzle gamegfhffhf vnhgfthftgh gbhfghfghb tvbgdfvbg gbhfgb ",
+        "ratings":5,
+        "price":300
+    },
+    {
+        "id":"toys_2",
+        "productName":"Bike",
+        "price":700,
+        "brand":"LookMark",
+        "info":"kids bikdfdrdgdgdfgdfg",
+        "ratings":1,
+        "productImg":"/images/toys/bike.jpeg"
+    }
+]
